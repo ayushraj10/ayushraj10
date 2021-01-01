@@ -11,5 +11,4 @@ Skills: Python / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushraj10g_color=30,e96443,904e95&title_color=fff&text_color=fff) 
-
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=clementmihailescu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
